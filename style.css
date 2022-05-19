@@ -1,0 +1,29 @@
+ body{
+     background-image: url("https://i.ytimg.com/vi/xnzr2FJouYY/maxresdefault.jpg");
+     background-position: center;
+     background-size: cover;
+     color: rgb(0, 26, 255);
+     
+ }
+
+ img{
+     width: 200px;
+     height: 200px;
+ }
+
+ #speed_div{
+     float: left;
+ }
+
+ #volume_div{
+     float: right;
+ }
+
+canvas{
+    margin-top: 190px;
+    margin-left: 40px;
+    border-color: aqua;
+    border-width: 4px;
+border-style: dashed;
+    border-radius: 50px;
+}
